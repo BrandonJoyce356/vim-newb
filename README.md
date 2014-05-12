@@ -13,3 +13,6 @@ Step 2 - Navigating the Project
 ===============================
 The thing that became immediately apparent to me was that it was difficult to move around the project efficiently.  This is where I was introduced to ctags and CtrlP.  Ctags are basically a way of indexing your source code, and CtrlP is a plugin that enhances VIM's builtin fuzzy search.  Here is a great writeup on the whole thing: [VIM Source Code Navigation](https://github.com/dapplebeforedawn/ides-considered-harmful-talk/blob/master/source-navigation.markdown)
 
+Step 3 - Make More Pretty
+=========================
+I want a color scheme so I can read my code more clearly.  Here is a nice plugin: [vividchalk](https://github.com/tpope/vim-vividchalk)
